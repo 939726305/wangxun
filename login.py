@@ -11,4 +11,5 @@ num10 = 10
 num11 = 11
 num12 = 12
 khkkh = 13312
+ceshi = 123
 
